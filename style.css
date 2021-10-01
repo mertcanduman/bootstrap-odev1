@@ -1,0 +1,53 @@
+body{
+    background-color: #E9ECEF;
+}
+.navelement {
+    text-decoration: none;
+    margin-right: 1rem;
+    color: rgb(143, 143, 143);
+}
+.navelement:hover{
+    color: white;
+}
+
+#Müzik-Dükkanım {
+    margin-right: 2rem;
+    margin-left: 1rem;
+    text-decoration: none;
+    color:red;
+    font-weight: bold;
+    font-size: large;
+}
+
+.jumbotron > h1 {
+    color: red;
+}
+
+.jumbotron > p {
+    font-size: large;
+}
+
+.jumbotron > p > a {
+    text-decoration: none;
+}
+
+.jumbotron > h4 {
+    color:rgb(71, 7, 7);
+}
+.card > h5 {
+    color:rgb(71, 7, 7)
+}
+
+.card > p {
+    text-align: center;
+    color: white;
+    width: 4rem;
+    border-radius: 10px;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card > img {
+    height: 500px;
+}
